@@ -1,5 +1,5 @@
 # Myanmar-Football-Betting-Market-Dashboard
-
+![Report Image](Report)
 In the time after the 2021 coup, Myanmar saw more and more people getting into football betting apps and stuff like that. This report talks about what happened from 2020 to 2023 and how it affected things.
 
 Here's what it talks about:
@@ -13,4 +13,4 @@ Here's what it talks about:
 
 If you want to see more, you can check out the full report [here](https://lookerstudio.google.com/reporting/e56d22cb-c88f-480f-9d55-fea86a1a07e8).
 
-![Report Image](image_url)
+
